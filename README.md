@@ -1,2 +1,2 @@
 # curated
-Curated online resources
+Curated online resources.
